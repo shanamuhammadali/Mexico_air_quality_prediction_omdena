@@ -1,4 +1,4 @@
-# Mexoco_air_quality_prediction
+# Mexico_air_quality_prediction_Omdena
 Air Quality Prediction and Personalized Health Recommendations for Mexico City by Omdena Local Chapter
 Challenge Background
 Mexico City, one of the world's largest metropolitan areas, has long struggled with air pollution due to its geography, high population density, and industrial activities. The city's air quality significantly impacts the health and quality of life of its over 21 million residents.
